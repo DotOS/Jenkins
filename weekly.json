@@ -2,6 +2,7 @@
    "devices":[
       "mido",
       "whyred",
+      "apollo",
       "begonia",
       "cheeseburger",
       "davinci",
@@ -16,12 +17,13 @@
       "sakura",
       "sweet",
       "taimen",
-      "tissot"
+      "tissot",
       "toco",
       "vince",
       "violet",
       "walleye",
       "X01BD",
-      "ysl",
+      "vayu",
+      "ysl"
    ]
 }
